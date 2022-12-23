@@ -1,0 +1,6 @@
+8;Chaves;70;120
+14;Kiko;95;90
+72;Chiquinha;90;105
+72;Seu Madruga;80;90
+14;Dona Florinda;95;130
+71; Bruxa do 71;70;110
